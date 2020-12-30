@@ -1,0 +1,39 @@
+.heading {
+  color: aquamarine;
+  font-size: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: overline underline aquamarine;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.item {
+  color: aquamarine;
+  font-size: 30px;
+  line-height: 1.5em;
+}
+.links {
+  background: aquamarine;
+  color: black;
+  font-size: 30px;
+  text-transform: uppercase;
+  padding: 15px 5px;
+  margin: 20px 0px;
+  text-align: right;
+}
+.link {
+  font-size: inherit;
+}
+.img {
+  display: block;
+  box-sizing: border-box;
+  width: 300px;
+  height: 300px;
+  margin: 15px auto;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
+.input {
+background: aquamarine;
+font-weight: bolder;
+}
